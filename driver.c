@@ -1,3 +1,11 @@
+/*
+ * Name: Tyler Davis
+ *
+ * driver for the stack manipulation program
+ * uses the functions defined in stack.h to
+ * manipulate the stack.
+ */
+
 #include <stdio.h>
 #include "stack.h"
 
@@ -31,11 +39,11 @@ int main(int argc, char *argv[]) {
             printf("Goodbye!\n");
             return 0;
         } else {
-            printf("\n");
+            printf("\n\n");
             continue;
         }
         printf("Stack:");
         printStack(printMode);
-        printf("\n");
+        printf("\n\n");
     }
 }

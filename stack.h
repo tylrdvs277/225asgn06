@@ -1,3 +1,10 @@
+/* 
+ * Name: Tyler Davis
+ *
+ * Header file for stack.c
+ * Contains function declarations
+ */
+
 #ifndef STACK_H
 #define CODE_H
 
