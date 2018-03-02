@@ -6,7 +6,7 @@
  */
 
 #ifndef STACK_H
-#define CODE_H
+#define STACK_H
 
 int push(int value);
 
